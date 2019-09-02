@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BrewDog beers</string>
+    <string name="search_label">What are you going to eat?</string>
+    <string name="search_hint">Food</string>
+    <string name="search_button">Search</string>
+    <string name="sortStrong">Strong->Soft</string>
+    <string name="sortSoft">Soft->Strong</string>
+    <string name="errorEmptyName">Name is empty</string>
+    <string name="errorNotFound">: Food not found</string>
+    <string name="errorNotConnection">: It could not connect to host</string>
+</resources>
